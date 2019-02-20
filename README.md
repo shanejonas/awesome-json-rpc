@@ -30,12 +30,21 @@ Curated list of JSON-RPC resources.
   - [JSON-RPC.NET](https://github.com/Astn/JSON-RPC.NET) - JSON-RPC.Net is a high performance Json-Rpc 2.0 server, leveraging the popular JSON.NET library. Host in ASP.NET, also supports sockets and pipes, oh my!
 - Nim
   - [nim-json-rpc](https://github.com/status-im/nim-json-rpc) - Nim library for implementing JSON-RPC clients and servers
+- Golang
+  - [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0 in golang
+- Python
+  - [pavlov99](https://github.com/pavlov99/json-rpc) - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
+- PHP
+  - [EvilScott/junior](https://github.com/EvilScott/junior) - PHP client/server library for JSON-RPC 2.0
+- C
+  - [cesanta/mjson](https://github.com/cesanta/mjson) - C/C++ JSON parser, emitter, JSON-RPC engine for embedded systems
+- Ruby
+  - [helios-technologies/json-rpc](https://github.com/helios-technologies/json-rpc) - Implementation of JSON RPC 2.0 protocol. It allows you to create easily a json rpc server in pure Rack, in Rails, or asynchronous using Thin and EventMachine.
 
-
-## Integrations
+## Framework Integrations
 
 - [Loopback JSON-RPC connector](https://loopback.io/doc/en/lb2/JSON-RPC-connector.html)
-
+- [Django JSON-RPC](https://github.com/samuraisam/django-json-rpc)
 
 ## Tools
 

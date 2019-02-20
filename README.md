@@ -1,6 +1,10 @@
 # awesome-json-rpc
 Curated list of JSON-RPC resources.
 
+#### What is JSON-RPC?
+
+JSON-RPC is a remote procedure call protocol used by IoT, cryptocurrencies and more. It is a very simple protocol, defining only a few data types and commands. JSON-RPC allows for notifications (data sent to the server that does not require a response) and for multiple calls to be sent to the server which may be answered out of order.
+
 ## Official
 
 - [JSON-RPC - Wikipedia](https://en.wikipedia.org/wiki/JSON-RPC) - Informative JSON-RPC Wikipedia article.

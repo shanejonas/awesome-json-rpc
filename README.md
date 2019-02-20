@@ -73,7 +73,7 @@ debugging of JSON-RPC 2.0 web services
 - [open-rpc/spec](https://github.com/open-rpc/spec) - A specification for a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. 
 - [open-rpc/meta-schema](https://github.com/open-rpc/meta-schema) - JSON Schema file representing the open-rpc specification.
 - [open-rpc/playground](https://github.com/open-rpc/playground) - A play to play around with open-rpc.
-- [open-rpc/editor-extensions-vscode](https://github.com/open-rpc/editor-extensions-vscode) - A vscode extension to provide validation and  completion for open-rpc documents.
+- [open-rpc/editor-extensions-vscode](https://github.com/open-rpc/editor-extensions-vscode) - A vscode extension to provide validation and auto-completion for open-rpc documents.
 - [open-rpc/generator-client](https://github.com/open-rpc/generator-client) - Mono repo for the client generators for each target language 
 - [open-rpc/generator-docs](https://github.com/open-rpc/generator-docs) - Generate documentation from your open-rpc document
 - [open-rpc/examples](https://github.com/open-rpc/examples) - Collection of example open-rpc documents

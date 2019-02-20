@@ -11,7 +11,7 @@ Curated list of JSON-RPC resources.
 ## Libraries
 
 - Javascript
-  - [Jayson](https://github.com/tedeh/jayson)
+  - [Jayson](https://github.com/tedeh/jayson) - Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js 
   - [multi-transport-jsonrpc](https://www.npmjs.com/package/multitransport-jsonrpc) - Provides a JSON-RPC solution for both the traditional HTTP scenario as well as for persistent, raw TCP connections. 
   - [mqtt-json-rpc](https://github.com/rse/mqtt-json-rpc) - JSON-RPC over mqtt
   - [pmrpc](https://github.com/statianzo/pmrpc) - JSON-RPC over html5 postMessage

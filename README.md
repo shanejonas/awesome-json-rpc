@@ -19,8 +19,8 @@ Curated list of JSON-RPC resources.
     - [node-mole-rpc-transport-mqtt](https://github.com/koorchik/node-mole-rpc-transport-mqtt) - MQTT transport for Mole-RPC (JSON RPC library)
     - [node-mole-rpc-transport-eventemitter](https://github.com/koorchik/node-mole-rpc-transport-eventemitter) - Event Emitter Mole RPC (JSON RPC library) transport
 
-    - [https://github.com/koorchik/node-mole-rpc-transport-ws](https://github.com/koorchik/node-mole-rpc-transport-ws) - WebSocket(ws) transport for Mole-RPC (JSON RPC library)
-    - [https://github.com/koorchik/node-mole-rpc-transport-webworker](https://github.com/koorchik/node-mole-rpc-transport-webworker) - Easy way to communicate with webworker using Mole-RPC (JSON RPC library)
+    - [node-mole-rpc-transport-ws](https://github.com/koorchik/node-mole-rpc-transport-ws) - WebSocket(ws) transport for Mole-RPC (JSON RPC library)
+    - [node-mole-rpc-transport-webworker](https://github.com/koorchik/node-mole-rpc-transport-webworker) - Easy way to communicate with webworker using Mole-RPC (JSON RPC library)
 
 - Swift
   - [JSONRPCKit](https://github.com/bricklife/JSONRPCKit) - A type-safe JSON-RPC 2.0 library purely written in Swift.

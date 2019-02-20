@@ -13,6 +13,15 @@ Curated list of JSON-RPC resources.
 - Javascript
   - [Jayson](https://github.com/tedeh/jayson)
   - [multi-transport-jsonrpc](https://www.npmjs.com/package/multitransport-jsonrpc) - Provides a JSON-RPC solution for both the traditional HTTP scenario as well as for persistent, raw TCP connections. 
+  - [mqtt-json-rpc](https://github.com/rse/mqtt-json-rpc) - JSON-RPC over mqtt
+  - [pmrpc](https://github.com/statianzo/pmrpc) - JSON-RPC over html5 postMessage
+  - [node-mole-rpc](https://github.com/koorchik/node-mole-rpc) - Tiny transport agnostic JSON-RPC 2.0 client and server which can work everywhere. NodeJs, Browser, Electron. On any transport; Even custom.
+    - [node-mole-rpc-transport-mqtt](https://github.com/koorchik/node-mole-rpc-transport-mqtt) - MQTT transport for Mole-RPC (JSON RPC library)
+    - [node-mole-rpc-transport-eventemitter](https://github.com/koorchik/node-mole-rpc-transport-eventemitter) - Event Emitter Mole RPC (JSON RPC library) transport
+
+    - [https://github.com/koorchik/node-mole-rpc-transport-ws](https://github.com/koorchik/node-mole-rpc-transport-ws) - WebSocket(ws) transport for Mole-RPC (JSON RPC library)
+    - [https://github.com/koorchik/node-mole-rpc-transport-webworker](https://github.com/koorchik/node-mole-rpc-transport-webworker) - Easy way to communicate with webworker using Mole-RPC (JSON RPC library)
+
 - Swift
   - [JSONRPCKit](https://github.com/bricklife/JSONRPCKit) - A type-safe JSON-RPC 2.0 library purely written in Swift.
 - .NET
@@ -21,6 +30,11 @@ Curated list of JSON-RPC resources.
   - [JSON-RPC.NET](https://github.com/Astn/JSON-RPC.NET) - JSON-RPC.Net is a high performance Json-Rpc 2.0 server, leveraging the popular JSON.NET library. Host in ASP.NET, also supports sockets and pipes, oh my!
 - Nim
   - [nim-json-rpc](https://github.com/status-im/nim-json-rpc) - Nim library for implementing JSON-RPC clients and servers
+
+
+## Integrations
+
+- [Loopback JSON-RPC connector](https://loopback.io/doc/en/lb2/JSON-RPC-connector.html)
 
 
 ## Tools

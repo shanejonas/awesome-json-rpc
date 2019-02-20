@@ -19,6 +19,8 @@ Curated list of JSON-RPC resources.
   - [Microsoft/vs-streamjsonrpc](https://github.com/Microsoft/vs-streamjsonrpc) - The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.
   - [JsonRpc.Router](https://github.com/edjCase/JsonRpc) - A .NetStandard 2.0 IRouter implementation for Json Rpc v2 requests for Microsoft.AspNetCore.Routing.
   - [JSON-RPC.NET](https://github.com/Astn/JSON-RPC.NET) - JSON-RPC.Net is a high performance Json-Rpc 2.0 server, leveraging the popular JSON.NET library. Host in ASP.NET, also supports sockets and pipes, oh my!
+- Nim
+  - [nim-json-rpc](https://github.com/status-im/nim-json-rpc)
 
 ## Tools
 

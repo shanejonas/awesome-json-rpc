@@ -81,25 +81,25 @@ debugging of JSON-RPC 2.0 web services
 
 #### Uses of JSON-RPC
 
-- [Arm mbed IoT Platform](https://cloud.mbed.com/docs/current/connecting/json-rpc.html#protocol-translator-register)
-- [Bitcoin](https://en.bitcoinwiki.org/wiki/JSON-RPC)
-- [Dash](https://github.com/dashpay/dash)
-- [Dogecoin](https://github.com/dogecoin/dogecoin)
-- [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC)
-- [Ethereum](https://github.com/ethereum/wiki/wiki/JSON-RPC)
-- [FreeIPA](https://www.freeipa.org)
-- [Kodi](https://kodi.wiki/view/JSON-RPC_API)
-- [Litecoin](https://github.com/litecoin-project/litecoin)
-- [Microsoft Language Server](https://docs.microsoft.com/en-us/visualstudio/extensibility/language-server-protocol?view=vs-2017)
-- [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/)
-- [Monero](https://github.com/monero-project/monero)
-- [OpenDaylight](https://www.opendaylight.org/)
-- [PPIO](https://www.pp.io)
-- [Qtum](https://qtumproject.github.io/qtumjs-doc/)
-- [Quorum](https://github.com/jpmorganchase/quorum)
-- [RANDOM.ORG](https://api.random.org/json-rpc/1/)
-- [Ripple](https://developers.ripple.com/get-started-with-the-rippled-api.html)
-- [Tarantool](https://github.com/tarantool/nginx_upstream_module)
-- [Tezos](https://tezos.gitlab.io/alphanet/tutorials/rpc.html)
-- [Visual Studio Language Server Extensions](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide)
-- [Zcash](https://github.com/zcash/zcash)
+- [Arm mbed IoT Platform](https://cloud.mbed.com/docs/current/connecting/json-rpc.html#protocol-translator-register) - Arm Mbed OS together with the Pelion IoT Platform provide a transformative device-to-data platform for connected IoT that empowers an intelligent enterprise.
+- [Bitcoin](https://en.bitcoinwiki.org/wiki/JSON-RPC) -  Bitcoin is a decentralized cryptocurrency created in 2008 by the pseudonymous Satoshi Nakamoto.
+- [Dash](https://github.com/dashpay/dash) - Dash is Digital Cash You Can Spend Anywhere. 
+- [Dogecoin](https://github.com/dogecoin/dogecoin) - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo. 
+- [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
+- [Ethereum](https://github.com/ethereum/wiki/wiki/JSON-RPC) - Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract (scripting) functionality. 
+- [FreeIPA](https://www.freeipa.org) - Manage Linux users and client hosts in your realm from one central location with CLI, Web UI or RPC access. Enable Single Sign On authentication for all your systems, services and applications. 
+- [Kodi](https://kodi.wiki/view/JSON-RPC_API) - Kodi is a free media player that is designed to look great on your big screen TV but is just as home on a small screen.
+- [Litecoin](https://github.com/litecoin-project/litecoin) - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
+- [Microsoft Language Server](https://docs.microsoft.com/en-us/visualstudio/extensibility/language-server-protocol?view=vs-2017) - Underlying Language Server protocol for vscode
+- [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) - SQL Query and Management over JSON-RPC.
+- [Monero](https://github.com/monero-project/monero) - the secure, private, untraceable cryptocurrency.
+- [OpenDaylight](https://www.opendaylight.org/) - OpenDaylight (ODL) is a modular open platform for customizing and automating networks of any size and scale. 
+- [PPIO](https://www.pp.io) - A decentralized data storage and delivery platform for developers that value affordability, speed, and privacy.
+- [Qtum](https://qtumproject.github.io/qtumjs-doc/) - Qtum is an open sourced public blockchain platform, leveraging the security of UTXO while enabling multiple virtual machines including EVM and the revolutionary x86 VM. 
+- [Quorum](https://github.com/jpmorganchase/quorum) - A permissioned implementation of Ethereum supporting data privacy.
+- [RANDOM.ORG](https://api.random.org/json-rpc/1/) - RANDOM.ORG offers true random numbers to anyone on the Internet. The randomness comes from atmospheric noise, which for many purposes is better than the pseudo-random number algorithms typically used in computer programs. People use RANDOM.ORG for holding drawings, lotteries and sweepstakes, to drive online games, for scientific applications and for art and music. The service has existed since 1998 and was built by Dr Mads Haahr of the School of Computer Science and Statistics at Trinity College, Dublin in Ireland. Today, RANDOM.ORG is operated by Randomness and Integrity Services Ltd.
+- [Ripple](https://developers.ripple.com/get-started-with-the-rippled-api.html) - Ripple is a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc., a US-based technology company. 
+- [Tarantool](https://github.com/tarantool/nginx_upstream_module) - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
+- [Tezos](https://tezos.gitlab.io/alphanet/tutorials/rpc.html) - Tezos is formalizing blockchain governance.
+- [Visual Studio Language Server Extensions](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) - The Editor Extensions are build on the Language Server. It's Interface is over JSON-RPC.
+- [Zcash](https://github.com/zcash/zcash) - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin. 

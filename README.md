@@ -28,6 +28,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 ## Libraries
 
 - Javascript
+  - [jsonrpc-bidirectional](https://github.com/bigstepinc/jsonrpc-bidirectional) - Bidirectional RPC over WebSocket, Worker, WebRTC and HTTP with extensive plugin support.
   - [Jayson](https://github.com/tedeh/jayson) - Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js 
   - [multi-transport-jsonrpc](https://www.npmjs.com/package/multitransport-jsonrpc) - Provides a JSON-RPC solution for both the traditional HTTP scenario as well as for persistent, raw TCP connections. 
   - [mqtt-json-rpc](https://github.com/rse/mqtt-json-rpc) - JSON-RPC over mqtt

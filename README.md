@@ -72,8 +72,8 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 debugging of JSON-RPC 2.0 web services
 
 ### Interface Description
-
-- [open-rpc/spec](https://github.com/open-rpc/spec) - A specification for a standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. 
+- [open-rpc.org](https://open-rpc.org) - A standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs. 
+- [open-rpc/spec](https://github.com/open-rpc/spec) - Specification for OpenRPC
 - [open-rpc/meta-schema](https://github.com/open-rpc/meta-schema) - JSON Schema file representing the open-rpc specification.
 - [open-rpc/playground](https://github.com/open-rpc/playground) - A play to play around with open-rpc.
 - [open-rpc/editor-extensions-vscode](https://github.com/open-rpc/editor-extensions-vscode) - A vscode extension to provide validation and auto-completion for open-rpc documents.

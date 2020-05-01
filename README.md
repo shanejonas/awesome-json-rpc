@@ -51,7 +51,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 - Golang
   - [go-ethereum/rpc](https://godoc.org/github.com/ethereum/go-ethereum/rpc) - Package rpc implements bi-directional JSON-RPC 2.0 on multiple transports.
   - [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0 in golang
-  - [hyperledger/burrow](https://github.com/hyperledger/burrow/tree/master/rpc) Burrow is a fully fledged blockchain node and smart contract execution engine, with an RPC service!
+  - [hyperledger/burrow](https://github.com/hyperledger/burrow/tree/master/rpc) - Burrow is a fully fledged blockchain node and smart contract execution engine, with an RPC service!
 - Python
   - [pavlov99](https://github.com/pavlov99/json-rpc) - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
 - PHP

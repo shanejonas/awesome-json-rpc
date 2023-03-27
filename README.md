@@ -53,11 +53,13 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   - [osamingo/jsonrpc](https://github.com/osamingo/jsonrpc) - The jsonrpc package helps implement of JSON-RPC 2.0 in golang
   - [hyperledger/burrow](https://github.com/hyperledger/burrow/tree/master/rpc) - Burrow is a fully fledged blockchain node and smart contract execution engine, with an RPC service!
 - Python
-  - [pavlov99](https://github.com/pavlov99/json-rpc) - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
+  - [pavlov99](https://github.com/pavlov99/json-rpc) - JSON-RPC 1/2 transport implementation. Supports Python 2/3 and PyPy.
+  - [unum-cloud/ujrpc](https://github.com/unum-cloud/ujrpc) - JSON-RPC 2.0 implementation for Python 3, with SIMD acceleration and `io_uring` for kernel bypass.
 - PHP
   - [EvilScott/junior](https://github.com/EvilScott/junior) - PHP client/server library for JSON-RPC 2.0
 - C
   - [cesanta/mjson](https://github.com/cesanta/mjson) - C/C++ JSON parser, emitter, JSON-RPC engine for embedded systems
+  - [unum-cloud/ujrpc](https://github.com/unum-cloud/ujrpc) - JSON-RPC 2.0 server for C, with SIMD acceleration and `io_uring` for kernel bypass.
 - Ruby
   - [helios-technologies/json-rpc](https://github.com/helios-technologies/json-rpc) - Implementation of JSON RPC 2.0 protocol. It allows you to create easily a json rpc server in pure Rack, in Rails, or asynchronous using Thin and EventMachine.
 

@@ -88,7 +88,8 @@ debugging of JSON-RPC 2.0 web services
 - [Arm mbed IoT Platform](https://cloud.mbed.com/docs/current/connecting/json-rpc.html#protocol-translator-register) - Arm Mbed OS together with the Pelion IoT Platform provide a transformative device-to-data platform for connected IoT that empowers an intelligent enterprise.
 - [Bitcoin](https://en.bitcoinwiki.org/wiki/JSON-RPC) -  Bitcoin is a decentralized cryptocurrency created in 2008 by the pseudonymous Satoshi Nakamoto.
 - [Dash](https://github.com/dashpay/dash) - Dash is Digital Cash You Can Spend Anywhere. 
-- [Dogecoin](https://github.com/dogecoin/dogecoin) - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo. 
+- [Dogecoin](https://github.com/dogecoin/dogecoin) - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+- [Dokuwiki](https://www.dokuwiki.org/devel:jsonrpc) - DokuWiki is a simple to use and highly versatile Open Source wiki software that doesn't require a database.
 - [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
 - [Ethereum](https://github.com/ethereum/wiki/wiki/JSON-RPC) - Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract (scripting) functionality. 
 - [FreeIPA](https://www.freeipa.org) - Manage Linux users and client hosts in your realm from one central location with CLI, Web UI or RPC access. Enable Single Sign On authentication for all your systems, services and applications. 

@@ -33,6 +33,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   - [multi-transport-jsonrpc](https://www.npmjs.com/package/multitransport-jsonrpc) - Provides a JSON-RPC solution for both the traditional HTTP scenario as well as for persistent, raw TCP connections. 
   - [mqtt-json-rpc](https://github.com/rse/mqtt-json-rpc) - JSON-RPC over mqtt
   - [pmrpc](https://github.com/statianzo/pmrpc) - JSON-RPC over html5 postMessage
+  - [jsonrpc-bridge](https://github.com/purocean/jsonrpc-bridge) - Remote procedure call (RPC) library for JavaScript. It is based on JSON-RPC 2.0 specification.
   - [node-mole-rpc](https://github.com/koorchik/node-mole-rpc) - Tiny transport agnostic JSON-RPC 2.0 client and server which can work everywhere. NodeJs, Browser, Electron. On any transport; Even custom.
     - [node-mole-rpc-transport-mqtt](https://github.com/koorchik/node-mole-rpc-transport-mqtt) - MQTT transport for Mole-RPC (JSON RPC library)
     - [node-mole-rpc-transport-eventemitter](https://github.com/koorchik/node-mole-rpc-transport-eventemitter) - Event Emitter Mole RPC (JSON RPC library) transport

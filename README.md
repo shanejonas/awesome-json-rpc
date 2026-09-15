@@ -107,3 +107,4 @@ debugging of JSON-RPC 2.0 web services
 - [Tarantool](https://github.com/tarantool/nginx_upstream_module) - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
 - [Visual Studio Language Server Extensions](https://code.visualstudio.com/api/language-extensions/language-server-extension-guide) - The Editor Extensions are build on the Language Server. It's Interface is over JSON-RPC.
 - [Zcash](https://github.com/zcash/zcash) - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin. 
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
